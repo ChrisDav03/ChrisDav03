@@ -43,8 +43,7 @@ Whether you're passionate about technology, a fellow technology enthusiast, or s
         <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab,bitbucket"/></td>
     </tr>
 </table>
-</div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=chrisdav03&theme=dark)](https://git.io/streak-stats)
+</div><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chrisdav03&theme=dark" alt="GitHub Streak" /></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=chrisdav03&show_icons=true&theme=gotham#gh-dark-mode-only" />
