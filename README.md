@@ -44,6 +44,21 @@ Whether you're passionate about technology, a fellow technology enthusiast, or s
     </tr>
 </table>
 </div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=huiishan99&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=chrisdav03&show_icons=true&theme=gotham#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdav03&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=chrisdav03&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisdav03&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
+</a>
+
 
 
 <!--
