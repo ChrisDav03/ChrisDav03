@@ -1,6 +1,11 @@
 ## Hi there 👋
 <img src="https://github.com/ChrisDav03/ChrisDav03/blob/main/cover.png?raw=true" width ="100%">
 
+<h2>📖 | About me</h2> 
+ Results-driven Software Engineer with 3 years of
+ experience in Full-Stack development. 
+
+<h2>🛠️ | Languages, Frameworks, and Tools </h2>
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
