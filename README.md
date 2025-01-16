@@ -1,11 +1,26 @@
 ## Hi there 👋
 <img src="https://github.com/ChrisDav03/ChrisDav03/blob/main/cover.png?raw=true" width ="100%">
 
-<h2>📖 | About me</h2> 
+<div align="left">
+
+
+## 🌍 About Me
  Results-driven Software Engineer with 3 years of
  experience in Full-Stack development. 
 
-<h2>🛠️ | Languages, Frameworks, and Tools </h2>
+## 🎓 Education
+- **Specialization Degree in Big Data Analytics**  
+  Autonomous University of the West. Cali, Colombia
+- **Technical Professional Level Degree in Software Engineering**  
+  Autonomous University of the West. Cali, Colombia
+
+## 💻 Tech Interests
+I have a deep passion for **Backend development**. 
+
+## 🤝 Let's Collaborate
+Whether you're passionate about technology, a fellow technology enthusiast, or simply interested in learning more about my journey, I'm eager to connect and collaborate. Let's create something amazing together!
+
+## 🛠️ Languages, Frameworks, and Tools
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
@@ -28,6 +43,9 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab,bitbucket"/></td>
     </tr>
 </table>
+</div>
+
+
 <!--
 **ChrisDav03/ChrisDav03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
