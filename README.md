@@ -1,7 +1,5 @@
 ## Hi there 👋
-<img src="https://github.com/ChrisDav03/ChrisDav03/tree/main/image/cover.png?raw=true" width ="100%">
-https://github.com/ChrisDav03/ChrisDav03/tree/main/image/cover.png
-
+<img src="https://github.com/ChrisDav03/ChrisDav03/blob/main/cover.png?raw=true" width ="100%">
 <!--
 **ChrisDav03/ChrisDav03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
