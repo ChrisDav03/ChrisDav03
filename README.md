@@ -9,7 +9,7 @@
  experience in Full-Stack development. 
 
 ## 🎓 Education
-- **Specialization Degree in Big Data Analytics**  
+- **Specialization Degree in Big Data Analytics - In Progress**  
   Autonomous University of the West. Cali, Colombia
 - **Technical Professional Level Degree in Software Engineering**  
   Autonomous University of the West. Cali, Colombia
@@ -18,7 +18,7 @@
 I have a deep passion for **Backend development**. 
 
 ## 🤝 Let's Collaborate
-Whether you're passionate about technology, a fellow technology enthusiast, or simply interested in learning more about my journey, I'm eager to connect and collaborate. Let's create something amazing together!
+Whether you're passionate about data science, a fellow technology enthusiast, or simply interested in learning more about my journey, I'm eager to connect and collaborate. Let's create something amazing together!
 
 ## 🛠️ Languages, Frameworks, and Tools
 <table>
