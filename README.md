@@ -5,12 +5,9 @@
 
 
 ## 🌍 About Me
- Results-driven Software Engineer with 3 years of
- experience in Full-Stack development. 
+ Results-driven Software Engineer 
 
 ## 🎓 Education
-- **Specialization Degree in Big Data Analytics - In Progress**  
-  Autonomous University of the West. Cali, Colombia
 - **Technical Professional Level Degree in Software Engineering**  
   Autonomous University of the West. Cali, Colombia
 
